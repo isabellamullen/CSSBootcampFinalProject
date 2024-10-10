@@ -1,2 +1,2 @@
 # CSSBootcampFinalProject
-#Environmental Vulnerability and Climate Change Sentiment
+#How does environmental vulnerability influence climate change sentiment?

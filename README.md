@@ -1,6 +1,4 @@
-# Project Title
-
-How does environmental vulnerability influence climate change sentiment?
+# How does environmental vulnerability influence climate change sentiment?
 
 ### Description
 
